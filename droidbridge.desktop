@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=DroidBridge
+Comment=Cross-Platform Android ADB File Manager
+Exec=droidbridge %U
+Icon=droidbridge
+Terminal=false
+Type=Application
+Categories=Utility;FileManager;Development;
+Keywords=android;adb;file;manager;bridge;transfer;wireless;
+StartupWMClass=droidbridge
